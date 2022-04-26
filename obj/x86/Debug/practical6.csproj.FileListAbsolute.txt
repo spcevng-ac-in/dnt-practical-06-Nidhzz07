@@ -1,0 +1,4 @@
+c:\users\fatema patel\onedrive\documents\visual studio 2010\Projects\practical6\practical6\bin\Debug\practical6.exe
+c:\users\fatema patel\onedrive\documents\visual studio 2010\Projects\practical6\practical6\bin\Debug\practical6.pdb
+c:\users\fatema patel\onedrive\documents\visual studio 2010\Projects\practical6\practical6\obj\x86\Debug\practical6.exe
+c:\users\fatema patel\onedrive\documents\visual studio 2010\Projects\practical6\practical6\obj\x86\Debug\practical6.pdb
